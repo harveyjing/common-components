@@ -12,7 +12,7 @@ npm install --save common-components
 
 ## Usage
 
-```jsx
+```tsx
 import React, { Component } from 'react'
 
 import MyComponent from 'common-components'
