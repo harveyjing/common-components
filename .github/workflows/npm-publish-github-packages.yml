@@ -5,11 +5,12 @@ name: Node.js Package
 
 on:
   release:
-    types: [created]
+    types: 1.0.1
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
+    # runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
