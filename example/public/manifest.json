@@ -1,6 +1,6 @@
 {
-  "short_name": "common-components",
-  "name": "common-components",
+  "short_name": "@harveyjing/common-components",
+  "name": "@harveyjing/common-components",
   "icons": [
     {
       "src": "favicon.ico",

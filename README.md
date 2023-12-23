@@ -1,13 +1,13 @@
-# common-components
+# @harveyjing/common-components
 
 > React Web components using css-in-js without third-party library for reusable
 
-[![NPM](https://img.shields.io/npm/v/common-components.svg)](https://www.npmjs.com/package/common-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@harveyjing/common-components.svg)](https://www.npmjs.com/package/@harveyjing/common-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save common-components
+npm install --save @harveyjing/common-components
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save common-components
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'common-components'
-import 'common-components/dist/index.css'
+import MyComponent from '@harveyjing/common-components'
+import '@harveyjing/common-components/dist/index.css'
 
 class Example extends Component {
   render() {
