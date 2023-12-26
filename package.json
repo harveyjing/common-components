@@ -1,6 +1,6 @@
 {
   "name": "@harveyjing/common-components",
-  "version": "1.0.16",
+  "version": "1.0.19",
   "description": "React Web components using css-in-js without third-party library for reusable",
   "author": "harveyjing",
   "license": "MIT",
